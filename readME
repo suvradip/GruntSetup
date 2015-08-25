@@ -1,4 +1,4 @@
 
 1. Type from terminal " npm install "
 2. Put all of your JS filles in "all_js_files_here" folder to do lint.
-3. Type " grunt jshint ".
+3. Type " grunt lint ".
