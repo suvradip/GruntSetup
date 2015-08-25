@@ -22,7 +22,7 @@
   ],
   "main": "lib/grunt",
   "scripts": {
-    "test": "grunt test"
+    "install": "sudo npm install -g grunt-cli"
   },
   "engines": {
     "node": ">= 0.8.0"
